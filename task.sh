@@ -1,4 +1,0 @@
-cal
-date
-pwd
-

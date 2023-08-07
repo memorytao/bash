@@ -1,5 +1,0 @@
-error.txt
-first.sh
-list.txt
-output.txt
-task.sh
